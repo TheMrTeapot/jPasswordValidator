@@ -1,0 +1,38 @@
+/target/*
+*C:/*
+/.classpath
+/*/.classpath
+/.project
+/*/.project
+/.settings/*
+/*/.settings/*
+/bin/*
+*.vagrant/
+logs
+logs/*
+*~
+*.tar
+/build/
+
+*.log
+
+#Ignore IntelliJ files
+*.iml
+*.iws
+*.ipr
+.idea
+.idea/compiler.xml
+.idea/*.xml
+/bin
+*.checkstyle
+*.idea/*
+vendor
+.bundle
+*.DS_Store
+.gradle/
+# Ignore Gradle project-specific cache directory
+.gradle
+gradle/
+gradlew*
+# Ignore Gradle build output directory
+build
