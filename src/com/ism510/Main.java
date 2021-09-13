@@ -2,10 +2,6 @@ package com.ism510;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-
-import static javax.swing.JOptionPane.showMessageDialog;
 
 /**
  * Program to validate a password with the following requirements
